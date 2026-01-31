@@ -4,6 +4,7 @@ Transformer-Based Fake News Detection with RoBERTa
 
 *Flowchart of the Fake News Detection System*
 
+
 ## Overview
 This project implements an automated fake news detection system using a fine-tuned RoBERTa transformer model. The system classifies news articles as fake or real based on textual content, providing confidence scores and highlighted keywords for user interpretation. Leveraging deep contextual language representations and self-attention mechanisms, the system achieves high accuracy and robust performance in text classification tasks.
 
@@ -111,7 +112,7 @@ Pandas, NumPy
 
 SROY Liza
 YORY Sreykhuoch
-Department of Applied Mathematics and Statistics
+### Department of Applied Mathematics and Statistics
 Institute of Technology of Cambodia
 
 👨‍🏫 Supervisor
