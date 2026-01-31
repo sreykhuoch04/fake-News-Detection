@@ -99,3 +99,20 @@ During development, several challenges were encountered:
 - Evaluate cross-domain generalization on unseen datasets.
 - Implement title-focused preprocessing to improve predictions on short or headline-heavy articles.
 - Optimize the system for deployment on low-resource devices with model compression or distillation.
+🛠 Technologies Used
+
+Python
+PyTorch
+Hugging Face Transformers
+RoBERTa
+Scikit-learn
+Pandas, NumPy
+👩‍🎓 Authors
+
+SROY Liza
+YORY Sreykhuoch
+Department of Applied Mathematics and Statistics
+Institute of Technology of Cambodia
+
+👨‍🏫 Supervisor
+Dr. Phauk Sokkhey
